@@ -1,0 +1,28 @@
+.hero {
+  background-image: url("../resources/impecabil.png");
+  background-repeat: no-repeat;
+
+  background-position-x: 50%;
+
+  background-size: cover;
+}
+
+.bigguy {
+  background-image: url("../resources/bigguy.jpg");
+  background-repeat: no-repeat;
+
+  background-position-y: 50%;
+  background-size: cover;
+}
+
+.avatar {
+  background-image: url("../resources/avatar.jpg");
+  background-repeat: no-repeat;
+
+  background-position-y: 50%;
+  background-size: cover;
+}
+
+.cardd {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

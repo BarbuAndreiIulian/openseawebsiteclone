@@ -1,0 +1,17 @@
+.logo {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 1.35rem;
+}
+
+.cont {
+  box-shadow: rgba(0, 0, 0, 0.1) 1.95px 1.95px 2.6px;
+}
+
+#boxinput {
+  background-image: url("../resources/search.svg");
+  background-repeat: no-repeat;
+  background-position-x: 0.5rem;
+  background-position-y: 50%;
+  padding-left: 2.5rem;
+}
